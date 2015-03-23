@@ -1,0 +1,18 @@
+PODS:
+  - FontAwesomeKit/Core (2.2.0)
+  - FontAwesomeKit/IonIcons (2.2.0):
+    - FontAwesomeKit/Core
+  - JCDialPad (0.1.1):
+    - libPhoneNumber-iOS
+  - libPhoneNumber-iOS (0.8.4)
+
+DEPENDENCIES:
+  - FontAwesomeKit/IonIcons
+  - JCDialPad
+
+SPEC CHECKSUMS:
+  FontAwesomeKit: 61f0b4f12f1b11b7489bc7d1507a8692547f3857
+  JCDialPad: 0b3dc3175b376f765dd1b47c39ed19e4ed36f326
+  libPhoneNumber-iOS: dbfc7b4128510a4955df3e5a6f125393fc9ebc2f
+
+COCOAPODS: 0.35.0
